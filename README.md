@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" alt="Logo" width="200" height="200">
+  <img src="https://github.com/SV-UVM-Enthusiast/SV-UVM-Enthusiast/blob/main/Designer%2022.png" alt="Logo" width="1000" height="500">
 </p>
 <h1 align="center">Hi 👋, I'm Hardik Solanki</h1>
 <h3 align="center">A passionate Design Verification Engineer from India</h3>
