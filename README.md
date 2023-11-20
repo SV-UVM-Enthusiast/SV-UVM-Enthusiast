@@ -1,4 +1,7 @@
-![logo](https://drive.google.com/file/d/17bjYTkrlcv9hkUbfZn2mcZK9noxM6NoN/view?usp=sharing)
+
+<p align="center">
+  <img src="" alt="Logo" width="200" height="200">
+</p>
 <h1 align="center">Hi 👋, I'm Hardik Solanki</h1>
 <h3 align="center">A passionate Design Verification Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
