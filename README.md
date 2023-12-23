@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working on **AXI Protocol and VIP**
+- 🔭 I’m currently working on **Ethernet MAC SV | UVM**
 
-- 🌱 I’m currently learning **UVM and AMBA Protocols**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Verilog, System Verilog, UVM**
 
