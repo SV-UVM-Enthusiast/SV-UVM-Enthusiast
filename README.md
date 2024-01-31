@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **hardiksolanki114@gmail.com**
 
-- ⚡ Fun fact **Warning: My jokes are like rare spices – not everyone can handle the flavor. Brace yourself for a laughter adventure you might not be prepared for!**
+- ⚡ Important **I am looking for a job in VLSI industry as a verification engineer Location : anywhere in india.**
 [![SV-UVM-Enthusiast](https://github-readme-activity-graph.vercel.app/graph?username=SV-UVM-Enthusiast&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
